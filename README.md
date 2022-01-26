@@ -1,0 +1,2 @@
+This project will be my first project and it involves building a basic recipe website to showcase what I have learned so far from HTML. 
+By the end of this, I should have a good understanding of how to make a recipe website just by using HTML.
